@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement OCR Tool",
+  "description": "An intelligent tool that uses Gemini to extract transaction data from uploaded bank statements (PDF or image files) and converts it into a clean, copyable CSV format.",
+  "requestFramePermissions": []
+}
